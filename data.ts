@@ -13,23 +13,38 @@ export const articles: Article[] = [
     author: '3er Año - Comisión de Convivencia',
     date: '10 de Marzo, 2025',
     category: 'Convivencia',
-    imageUrl: 'https://picsum.photos/800/600?random=1',
+    imageUrl: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800',
     featured: true
   },
-  {
+  // {
+  //   id: '2',
+  //   title: 'Entrevista: "La escuela como lugar de encuentro"',
+  //   excerpt: 'Dialogamos con la directora sobre los nuevos Acuerdos Escolares de Convivencia (AEC) y el rol de los estudiantes.',
+  //   content: `Esta semana tuvimos la oportunidad de conversar con el equipo directivo. El tema central fue la renovación de los Acuerdos Escolares de Convivencia.
+    
+  //   Pregunta: ¿Cómo ve la participación estudiantil este año?
+  //   Respuesta: Es fundamental. Queremos que "Voces en Línea" sea ese espacio donde no solo se informan, sino donde proponen. La asimetría protectora de la que hablamos los docentes implica que estamos aquí para guiarlos, pero sus voces deben ser las protagonistas.
+    
+  //   La entrevista completa estará disponible en formato podcast la próxima semana.`,
+  //   author: 'Equipo de Periodismo Escolar',
+  //   date: '08 de Marzo, 2025',
+  //   category: 'Entrevistas',
+  //   imageUrl: 'https://images.unsplash.com/photo-1521791136364-798a7bc0d262?q=80&w=800'
+  // },
+    {
     id: '2',
     title: 'Entrevista: "La escuela como lugar de encuentro"',
     excerpt: 'Dialogamos con la directora sobre los nuevos Acuerdos Escolares de Convivencia (AEC) y el rol de los estudiantes.',
     content: `Esta semana tuvimos la oportunidad de conversar con el equipo directivo. El tema central fue la renovación de los Acuerdos Escolares de Convivencia.
-    
     Pregunta: ¿Cómo ve la participación estudiantil este año?
     Respuesta: Es fundamental. Queremos que "Voces en Línea" sea ese espacio donde no solo se informan, sino donde proponen. La asimetría protectora de la que hablamos los docentes implica que estamos aquí para guiarlos, pero sus voces deben ser las protagonistas.
     
-    La entrevista completa estará disponible en formato podcast la próxima semana.`,
+    
+    Los estudiantes de ciclo superior coordinaron talleres para los más chicos, fomentando un diálogo intergeneracional muy enriquecedor.`,
     author: 'Equipo de Periodismo Escolar',
     date: '08 de Marzo, 2025',
     category: 'Entrevistas',
-    imageUrl: 'https://picsum.photos/800/600?random=2'
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLvHn8LfQ4wKsCIFRFv-Wqq7f74Z1ZsapCA&s'
   },
   {
     id: '3',
@@ -41,7 +56,7 @@ export const articles: Article[] = [
     author: 'Prof. Mónica Castaño',
     date: '05 de Marzo, 2025',
     category: 'ESI',
-    imageUrl: 'https://picsum.photos/800/600?random=3'
+    imageUrl: 'https://images.controlshift.app/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4ODUsInB1ciI6ImJsb2JfaWQifX0=--02d365a9be55fa7d39b23eac95e7e823f23ae1fb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJzdHJpcCI6dHJ1ZSwicmVzaXplX3RvX2ZpdCI6WzEwMjQsNTEyXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--9987414941b7ecb79ebe0beafe2a64505a85557a/Portada_Facebook_(1640_%C3%97_800px).png'
   },
   {
     id: '4',
@@ -53,7 +68,7 @@ export const articles: Article[] = [
     author: 'Club de Ciencias',
     date: '01 de Marzo, 2025',
     category: 'Ambiente',
-    imageUrl: 'https://picsum.photos/800/600?random=4'
+    imageUrl: 'https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?q=80&w=800'
   },
   {
     id: '5',
@@ -63,7 +78,7 @@ export const articles: Article[] = [
     author: 'Dpto. Educación Física',
     date: '12 de Marzo, 2025',
     category: 'Deportes',
-    imageUrl: 'https://picsum.photos/800/600?random=5'
+    imageUrl: 'https://www.culturarecreacionydeporte.gov.co/sites/default/files/styles/870_x_540/public/2023-06/volleyball-1604584_1920.jpg?itok=YjtcptUk'
   },
   {
     id: '6',
@@ -73,6 +88,7 @@ export const articles: Article[] = [
     author: '5to Año - Literatura',
     date: '28 de Febrero, 2025',
     category: 'Cultura',
-    imageUrl: 'https://picsum.photos/800/600?random=6'
+    imageUrl: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=800'
   }
+
 ];
